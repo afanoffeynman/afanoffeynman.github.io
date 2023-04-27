@@ -23,15 +23,15 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 28 Apr 2023 00:44:09 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 00:45:23 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
         
             <item>
                 <title>Grave</title>
-                <link>https://example.com/post/grave/</link>
-                <guid isPermaLink="true">https://example.com/post/grave/</guid>
+                <link>https://example.com/posts/grave/</link>
+                <guid isPermaLink="true">https://example.com/posts/grave/</guid>
                 <pubDate>Thu, 27 Apr 2023 23:50:45 &#43;0800</pubDate>
                 
                     <author>reuixiy@gmail.com (reuixiy)</author>
