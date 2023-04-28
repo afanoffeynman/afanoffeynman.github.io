@@ -8,37 +8,37 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My own institution</title>
-        <link>https://example.com/</link>
+        <link>https://afanoffeynman.github.io/</link>
         <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
         <generator>Hugo 0.111.3 https://gohugo.io/</generator>
         
             <language>en</language>
         
         
-            <managingEditor>reuixiy@gmail.com (reuixiy)</managingEditor>
+            <managingEditor>afanoffeynman@gmail.com (afanoffeynman)</managingEditor>
         
         
-            <webMaster>reuixiy@gmail.com (reuixiy)</webMaster>
+            <webMaster>afanoffeynman@gmail.com (afanoffeynman)</webMaster>
         
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Fri, 28 Apr 2023 00:54:40 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 28 Apr 2023 09:59:30 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://afanoffeynman.github.io/rss.xml" />
         
         
             <item>
                 <title>Grave</title>
-                <link>https://example.com/posts/grave/</link>
-                <guid isPermaLink="true">https://example.com/posts/grave/</guid>
+                <link>https://afanoffeynman.github.io/posts/grave/</link>
+                <guid isPermaLink="true">https://afanoffeynman.github.io/posts/grave/</guid>
                 <pubDate>Thu, 27 Apr 2023 23:50:45 &#43;0800</pubDate>
                 
-                    <author>reuixiy@gmail.com (reuixiy)</author>
+                    <author>afanoffeynman@gmail.com (afanoffeynman)</author>
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
                 
-                    <description>&lt;p&gt;On one side is to stay, on the other is to bury&lt;/p&gt;
+                    <description>&lt;p&gt;一面是留恋，一面是埋葬&lt;/p&gt;
 </description>
                 
                 
@@ -51,7 +51,7 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/categories/hugo/">hugo</category>
+                                    <category domain="https://afanoffeynman.github.io/categories/%E6%9D%82%E8%AE%B0/">杂记</category>
                                 
                             
                         
@@ -61,7 +61,119 @@
                                 
                                 
                                 
-                                    <category domain="https://example.com/tags/hugo/">hugo</category>
+                                    <category domain="https://afanoffeynman.github.io/tags/hugo/">hugo</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Shakira: Bzrp Music Sessions, Vol. 53</title>
+                <link>https://afanoffeynman.github.io/posts/estudio-espa%C3%B1ol-con-canciones-populares/</link>
+                <guid isPermaLink="true">https://afanoffeynman.github.io/posts/estudio-espa%C3%B1ol-con-canciones-populares/</guid>
+                <pubDate>Thu, 27 Apr 2023 23:50:45 &#43;0800</pubDate>
+                
+                    <author>afanoffeynman@gmail.com (afanoffeynman)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;Shakira: Bzrp Music Sessions, Vol. 53 - Bizarrap/Shakira&lt;/p&gt;
+&lt;p&gt;Composed by：Gonzalo Julian Conde/Shakira Mebarak&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Oh-oh&lt;/p&gt;
+&lt;p&gt;Oh-oh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Perdón ya cogí otro avión&lt;/p&gt;
+&lt;p&gt;Aquí no vuelvo no quiero otra decepción&lt;/p&gt;
+&lt;p&gt;Tanto que te las das de campeón&lt;/p&gt;
+&lt;p&gt;Y cuando te necesitaba diste tu peor versión&lt;/p&gt;
+&lt;p&gt;Sorry baby hace rato&lt;/p&gt;
+&lt;p&gt;Que yo debí botar ese gato&lt;/p&gt;
+&lt;p&gt;Una loba como yo no está pa&amp;rsquo; novato&#39;&lt;/p&gt;
+&lt;p&gt;Una loba como yo no está pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;A ti te quedé grande y por eso estás con una igualita que tú&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Oh-oh oh-oh&lt;/p&gt;
+&lt;p&gt;Esto es pa&amp;rsquo; que te mortifique&amp;rsquo; mastique&amp;rsquo; y trague&amp;rsquo; trague&amp;rsquo; y mastique&#39;&lt;/p&gt;
+&lt;p&gt;Yo contigo ya no regreso ni que me llores ni me suplique&#39;&lt;/p&gt;
+&lt;p&gt;Entendí que no es culpa mía que te critiquen&lt;/p&gt;
+&lt;p&gt;Yo solo hago música perdón que te salpique&lt;/p&gt;
+&lt;p&gt;Me dejaste de vecina a la suegra&lt;/p&gt;
+&lt;p&gt;Con la prensa en la puerta y la deuda en Hacienda&lt;/p&gt;
+&lt;p&gt;Te creíste que me heriste y me volviste más dura&lt;/p&gt;
+&lt;p&gt;Las mujeres ya no lloran las mujeres facturan&lt;/p&gt;
+&lt;p&gt;Tiene nombre de persona buena&lt;/p&gt;
+&lt;p&gt;Claramente no es como suena&lt;/p&gt;
+&lt;p&gt;Tiene nombre de persona buena&lt;/p&gt;
+&lt;p&gt;Claramente&lt;/p&gt;
+&lt;p&gt;Es igualita que tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;A ti te quedé grande y por eso estás con una igualita que tú&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Oh-oh oh-oh&lt;/p&gt;
+&lt;p&gt;Del amor al odio hay un paso&lt;/p&gt;
+&lt;p&gt;Por acá no vuelva&amp;rsquo; hazme caso&lt;/p&gt;
+&lt;p&gt;Cero rencor bebé&lt;/p&gt;
+&lt;p&gt;Yo te deseo que te vaya bien con mi supuesto reemplazo&lt;/p&gt;
+&lt;p&gt;No sé ni qué es lo que te pasó&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;Tás tan raro que ni te distingo&lt;/p&gt;
+&lt;p&gt;Yo valgo por dos de 22&lt;/p&gt;
+&lt;p&gt;Cambiaste un Ferrari por un Twingo&lt;/p&gt;
+&lt;p&gt;Cambiaste un Rolex por un Casio&lt;/p&gt;
+&lt;p&gt;Vas acelera&amp;rsquo;o dale despacio&lt;/p&gt;
+&lt;p&gt;Ah mucho gimnasio&lt;/p&gt;
+&lt;p&gt;Pero trabaja el cerebro un poquito también&lt;/p&gt;
+&lt;p&gt;Fotos por donde me ven&lt;/p&gt;
+&lt;p&gt;Aquí me siento un rehén por mí todo bien&lt;/p&gt;
+&lt;p&gt;Yo te desocupo mañana y si quieres traértela a ella&lt;/p&gt;
+&lt;p&gt;Que venga también&lt;/p&gt;
+&lt;p&gt;Tiene nombre de persona buena&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Claramente no es como suena&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Tiene nombre de persona buena&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Y una loba como yo no está pa&amp;rsquo; tipos como tú&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;A ti te quedé grande y por eso estás con una igualita que tú&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Oh-oh oh-oh&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos pa&amp;rsquo;-pa&amp;rsquo;-pa&amp;rsquo; tipos como&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos como tú uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;Pa&amp;rsquo; tipos pa&amp;rsquo;-pa&amp;rsquo;-pa&amp;rsquo; tipos como&lt;/p&gt;
+&lt;p&gt;A ti te quedé grande y por eso estás con una igualita que tú&lt;/p&gt;
+&lt;p&gt;Uh-uh-uh-uh&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s a wrap&lt;/p&gt;
+&lt;p&gt;Oh-oh oh-oh&lt;/p&gt;
+&lt;p&gt;Ya está chao&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://afanoffeynman.github.io/categories/espa%C3%B1ol/">Español</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://afanoffeynman.github.io/tags/estudio-espa%C3%B1ol-con-canciones-populares/">Estudio español con canciones populares</category>
                                 
                             
                         
