@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">My own institution</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-04-28T10:19:22&#43;08:00</updated>
+    <updated>2023-05-02T13:39:57&#43;08:00</updated>
     <id>https://afanoffeynman.github.io/</id>
     <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://afanoffeynman.github.io/atom.xml" />
@@ -20,27 +20,34 @@
             <title type="text">La Bicicleta</title>
             <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/posts/la-bicicleta/" />
             <id>https://afanoffeynman.github.io/posts/la-bicicleta/</id>
-            <updated>2023-04-28T10:19:14&#43;08:00</updated>
+            <updated>2023-04-28T20:44:42&#43;08:00</updated>
             <published>2023-04-28T10:17:15&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
                     <uri>https://io-oi.me/</uri>
                     <email>afanoffeynman@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Nada voy a hacer
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Nada voy a hacer I won&amp;rsquo;t get anywhere
+nada: nothing
 Rebuscando en las heridas del pasado
+Rummaging through the wounds of the past
+rebuscando: 翻寻，动词原形为rebuscar，-r变为-ndo表示现在分词
 No voy a perder
-Yo no quiero ser un tipo de otro lado
-A tu manera es complicado
-En una bici que te lleva a todos lados
-Un ballenato desesperado
-Una cartica que yo guardo donde te escribí</summary>
+I am not going to lose
+Yo no quiero ser un tipo de otro lado</summary>
             
-                <content type="html">&lt;p&gt;Nada voy a hacer&lt;/p&gt;
-&lt;p&gt;Rebuscando en las heridas del pasado&lt;/p&gt;
-&lt;p&gt;No voy a perder&lt;/p&gt;
-&lt;p&gt;Yo no quiero ser un tipo de otro lado&lt;/p&gt;
-&lt;p&gt;A tu manera es complicado&lt;/p&gt;
+                <content type="html">&lt;p&gt;&lt;strong&gt;Nada voy a hacer&lt;/strong&gt;
+I won&amp;rsquo;t get anywhere&lt;/p&gt;
+&lt;p&gt;nada: nothing&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Rebuscando en las heridas del pasado&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Rummaging through the wounds of the past&lt;/p&gt;
+&lt;p&gt;rebuscando: 翻寻，动词原形为rebuscar，-r变为-ndo表示现在分词&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;No voy a perder&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I am not going to lose&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yo no quiero ser un tipo de otro lado&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t want to be a guy from the other side&lt;/p&gt;
+&lt;p&gt;tipo: type/guy&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A tu manera es complicado&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;En una bici que te lleva a todos lados&lt;/p&gt;
 &lt;p&gt;Un ballenato desesperado&lt;/p&gt;
 &lt;p&gt;Una cartica que yo guardo donde te escribí&lt;/p&gt;
