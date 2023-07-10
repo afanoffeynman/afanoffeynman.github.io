@@ -23,10 +23,83 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
         
-        <lastBuildDate>Tue, 11 Jul 2023 00:42:13 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jul 2023 00:55:31 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://afanoffeynman.github.io/rss.xml" />
         
+        
+            <item>
+                <title>2023年7月11日记</title>
+                <link>https://afanoffeynman.github.io/posts/journal1/</link>
+                <guid isPermaLink="true">https://afanoffeynman.github.io/posts/journal1/</guid>
+                <pubDate>Tue, 11 Jul 2023 00:53:20 &#43;0800</pubDate>
+                
+                    <author>afanoffeynman@gmail.com (afanoffeynman)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;最近把自己的生活过得一团糟，好久没有记录自己的所思所想，或许就没有什么所思所想在其中。
+现在事情少下来了，或许可以在这里记录一下自己学习的过程，整理一些知识和思绪。
+当然更重要的是构建起自己的体制。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Reflections</title>
+                <link>https://afanoffeynman.github.io/posts/reflections/</link>
+                <guid isPermaLink="true">https://afanoffeynman.github.io/posts/reflections/</guid>
+                <pubDate>Tue, 11 Jul 2023 00:48:26 &#43;0800</pubDate>
+                
+                    <author>afanoffeynman@gmail.com (afanoffeynman)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;p&gt;晚上在玩MemE遇到的问题：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;需要修改底部的作者联系方式与社交媒体账号，虽然我不怎么用社交媒体，所以或许可以取消掉这部分，留下邮箱和github账号即可。&lt;/li&gt;
+&lt;li&gt;需要修改一些归档方法，这一点还没有想好
+先做这两点记录，预计在明天花半小时解决第一点。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://afanoffeynman.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/">网站搭建</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://afanoffeynman.github.io/tags/%E6%9D%82%E8%AE%B0/">杂记</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>La Bicicleta</title>

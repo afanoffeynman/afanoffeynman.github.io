@@ -2,8 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://afanoffeynman.github.io/posts/journal1/</loc>
+    <lastmod>2023-07-11T00:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/</loc>
+    <lastmod>2023-07-11T00:55:20+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/posts/</loc>
+    <lastmod>2023-07-11T00:55:20+08:00</lastmod>
+  </url><url>
     <loc>https://afanoffeynman.github.io/categories/</loc>
-    <lastmod>2023-07-10T23:51:04+08:00</lastmod>
+    <lastmod>2023-07-11T00:52:38+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/posts/reflections/</loc>
+    <lastmod>2023-07-11T00:52:38+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/tags/</loc>
+    <lastmod>2023-07-11T00:52:38+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/tags/%E6%9D%82%E8%AE%B0/</loc>
+    <lastmod>2023-07-11T00:52:38+08:00</lastmod>
+  </url><url>
+    <loc>https://afanoffeynman.github.io/categories/%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2023-07-11T00:52:38+08:00</lastmod>
   </url><url>
     <loc>https://afanoffeynman.github.io/tags/espa%C3%B1ol/</loc>
     <lastmod>2023-07-10T23:50:26+08:00</lastmod>
@@ -13,15 +34,6 @@
   </url><url>
     <loc>https://afanoffeynman.github.io/posts/la-bicicleta/</loc>
     <lastmod>2023-07-10T23:50:12+08:00</lastmod>
-  </url><url>
-    <loc>https://afanoffeynman.github.io/</loc>
-    <lastmod>2023-07-10T23:51:04+08:00</lastmod>
-  </url><url>
-    <loc>https://afanoffeynman.github.io/posts/</loc>
-    <lastmod>2023-07-10T23:51:04+08:00</lastmod>
-  </url><url>
-    <loc>https://afanoffeynman.github.io/tags/</loc>
-    <lastmod>2023-07-10T23:51:04+08:00</lastmod>
   </url><url>
     <loc>https://afanoffeynman.github.io/posts/shakira-bzrp-music-sessions-vol.-53/</loc>
     <lastmod>2023-07-10T23:50:26+08:00</lastmod>
@@ -33,9 +45,6 @@
     <lastmod>2023-07-10T23:51:04+08:00</lastmod>
   </url><url>
     <loc>https://afanoffeynman.github.io/categories/%E5%9D%9F/</loc>
-    <lastmod>2023-07-10T23:51:04+08:00</lastmod>
-  </url><url>
-    <loc>https://afanoffeynman.github.io/tags/%E6%9D%82%E8%AE%B0/</loc>
     <lastmod>2023-07-10T23:51:04+08:00</lastmod>
   </url>
 </urlset>
