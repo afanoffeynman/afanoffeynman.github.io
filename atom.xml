@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">My own institution</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-07-10T23:53:17&#43;08:00</updated>
+    <updated>2023-07-11T00:31:10&#43;08:00</updated>
     <id>https://afanoffeynman.github.io/</id>
     <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://afanoffeynman.github.io/atom.xml" />
@@ -24,7 +24,7 @@
             <published>2023-04-28T10:17:15&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://afanoffeynman.github.io/</uri>
                     <email>afanoffeynman@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Nada voy a hacer I won&amp;rsquo;t get anywhere
@@ -142,7 +142,7 @@ I won&amp;rsquo;t get anywhere&lt;/p&gt;
             <published>2023-04-28T10:01:45&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://afanoffeynman.github.io/</uri>
                     <email>afanoffeynman@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Shakira: Bzrp Music Sessions, Vol. 53 - Bizarrap/Shakira
@@ -265,7 +265,7 @@ Tanto que te las das de campeón</summary>
             <published>2023-04-27T23:50:45&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
-                    <uri>https://io-oi.me/</uri>
+                    <uri>https://afanoffeynman.github.io/</uri>
                     <email>afanoffeynman@gmail.com</email>
                     </author>
             <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">一面是留恋，一面是埋葬</summary>
