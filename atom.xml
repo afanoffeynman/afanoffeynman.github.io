@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
     <title type="text">My own institution</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2023-05-02T13:39:57&#43;08:00</updated>
+    <updated>2023-07-10T23:53:17&#43;08:00</updated>
     <id>https://afanoffeynman.github.io/</id>
     <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://afanoffeynman.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">La Bicicleta</title>
             <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/posts/la-bicicleta/" />
             <id>https://afanoffeynman.github.io/posts/la-bicicleta/</id>
-            <updated>2023-04-28T20:44:42&#43;08:00</updated>
+            <updated>2023-07-10T23:50:12&#43;08:00</updated>
             <published>2023-04-28T10:17:15&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
@@ -116,7 +116,7 @@ I won&amp;rsquo;t get anywhere&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/categories/espa%C3%B1ol/" term="Español" label="Español" />
+                                <category scheme="https://afanoffeynman.github.io/categories/espa%C3%B1ol-con-canciones/" term="Español con Canciones" label="Español con Canciones" />
                             
                         
                     
@@ -126,7 +126,7 @@ I won&amp;rsquo;t get anywhere&lt;/p&gt;
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/tags/estudio-espa%C3%B1ol-con-canciones-populares/" term="Estudio español con canciones populares" label="Estudio español con canciones populares" />
+                                <category scheme="https://afanoffeynman.github.io/tags/espa%C3%B1ol/" term="Español" label="Español" />
                             
                         
                     
@@ -138,7 +138,7 @@ I won&amp;rsquo;t get anywhere&lt;/p&gt;
             <title type="text">Shakira: Bzrp Music Sessions, Vol. 53</title>
             <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/posts/shakira-bzrp-music-sessions-vol.-53/" />
             <id>https://afanoffeynman.github.io/posts/shakira-bzrp-music-sessions-vol.-53/</id>
-            <updated>2023-04-28T10:02:18&#43;08:00</updated>
+            <updated>2023-07-10T23:50:26&#43;08:00</updated>
             <published>2023-04-28T10:01:45&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
@@ -239,7 +239,7 @@ Tanto que te las das de campeón</summary>
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/categories/espa%C3%B1ol/" term="Español" label="Español" />
+                                <category scheme="https://afanoffeynman.github.io/categories/espa%C3%B1ol-con-canciones/" term="Español con Canciones" label="Español con Canciones" />
                             
                         
                     
@@ -249,7 +249,7 @@ Tanto que te las das de campeón</summary>
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/tags/estudio-espa%C3%B1ol-con-canciones-populares/" term="Estudio español con canciones populares" label="Estudio español con canciones populares" />
+                                <category scheme="https://afanoffeynman.github.io/tags/espa%C3%B1ol/" term="Español" label="Español" />
                             
                         
                     
@@ -261,7 +261,7 @@ Tanto que te las das de campeón</summary>
             <title type="text">Grave</title>
             <link rel="alternate" type="text/html" href="https://afanoffeynman.github.io/posts/grave/" />
             <id>https://afanoffeynman.github.io/posts/grave/</id>
-            <updated>2023-04-28T09:55:30&#43;08:00</updated>
+            <updated>2023-07-10T23:51:04&#43;08:00</updated>
             <published>2023-04-27T23:50:45&#43;08:00</published>
             <author>
                     <name>afanoffeynman</name>
@@ -283,7 +283,7 @@ Tanto que te las das de campeón</summary>
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/categories/%E6%9D%82%E8%AE%B0/" term="杂记" label="杂记" />
+                                <category scheme="https://afanoffeynman.github.io/categories/%E5%9D%9F/" term="坟" label="坟" />
                             
                         
                     
@@ -293,7 +293,7 @@ Tanto que te las das de campeón</summary>
                             
                             
                             
-                                <category scheme="https://afanoffeynman.github.io/tags/hugo/" term="hugo" label="hugo" />
+                                <category scheme="https://afanoffeynman.github.io/tags/%E6%9D%82%E8%AE%B0/" term="杂记" label="杂记" />
                             
                         
                     
