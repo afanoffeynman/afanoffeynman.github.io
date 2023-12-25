@@ -6,23 +6,14 @@
     <description>Recent content in Website on Myour - One Page Resume CV Hugo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jul 2020 12:49:27 +0600</lastBuildDate><atom:link href="https://afanoffeynman.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Dec 2023 00:34:00 +0800</lastBuildDate><atom:link href="https://afanoffeynman.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Benjamin Franklins thoughts about new designers</title>
+      <title>About This Website</title>
       <link>https://afanoffeynman.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
+      <pubDate>Tue, 26 Dec 2023 00:34:00 +0800</pubDate>
       
       <guid>https://afanoffeynman.github.io/blog/benjamin-franklins-thoughts-about-new-designers/</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
-    </item>
-    
-    <item>
-      <title>New designers limitations</title>
-      <link>https://afanoffeynman.github.io/blog/new-designers-limitations/</link>
-      <pubDate>Mon, 13 Jul 2020 12:49:27 +0600</pubDate>
-      
-      <guid>https://afanoffeynman.github.io/blog/new-designers-limitations/</guid>
-      <description>Introduction Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <description>Hello, and welcome to my personal website! I invite you to explore this blog and get to know me better. My website is built using the Myour theme developed by bslthemes, and I&amp;rsquo;ve utilized Hugo to deploy it as a static website hosted on GitHub Pages.</description>
     </item>
     
     <item>
